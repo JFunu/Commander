@@ -1,0 +1,20 @@
+{
+    "name": "jfunu/commander",
+    "description": "",
+    "authors": [
+        {
+            "name": "Jfunu",
+            "email": "jfunu79@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jfunu\\Commander": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
